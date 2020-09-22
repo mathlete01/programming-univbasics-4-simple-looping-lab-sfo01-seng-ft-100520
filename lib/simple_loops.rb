@@ -2,7 +2,7 @@
 def loop_message_five_times(string)
   counter = 0
   while(couter < 5)
-      puts(string)
+      puts string
       counter += 1
   end
 end
